@@ -101,5 +101,3 @@ python detect.py --weights best.pt --source 0 --conf-thres 0.3
 ```
 
 
-
-**Dibuat dengan ❤️ untuk komunitas bulu tangkis**
